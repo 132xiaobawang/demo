@@ -25,7 +25,7 @@ export default {
             orient: "vertical",
             x: "left",
             data: [
-              "直达",
+              "直达111",
               "营销广告",
               "搜索引擎",
               "邮件营销",
